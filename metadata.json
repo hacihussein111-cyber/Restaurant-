@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Speisekarte & CMS",
+  "description": "Moderne Restaurant-Website mit integriertem Content Management System (CMS) zur einfachen Bearbeitung von Speisen, Kategorien, Tagesangeboten und Restaurantdetails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
